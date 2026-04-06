@@ -84,3 +84,16 @@ put it simple
     nvm use
     npx ts-node solutions/script.ts
 ```
+
+
+### Clone from GitHub
+```Bash
+    # 1. clone from GitHub
+    git clone https://github.com/AchillesReaper/LeetCode-Practice.git
+    # 2. move to cloned working directory
+    cd [working_directory_path]
+    # 3. choose project node env
+    nvm use
+    # 4. install dependencies
+    npm install
+```
